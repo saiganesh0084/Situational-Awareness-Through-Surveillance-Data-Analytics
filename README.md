@@ -27,7 +27,7 @@ The dataset simulates surveillance data, including information on movement count
 
 ### Sample Data (CSV)
 You can download the sample dataset from the link below:
-[Download surveillance_data.csv]([sandbox:/mnt/data/surveillance_data.csv](https://github.com/saiganesh0084/Situational-Awareness-Through-Surveillance-Data-Analytics/blob/main/surveillance_data.csv))
+[Download surveillance_data.csv]([https://github.com/saiganesh0084/Situational-Awareness-Through-Surveillance-Data-Analytics/blob/main/surveillance_data.csv])
 
 ## How to Run the Project
 
@@ -36,6 +36,8 @@ You can download the sample dataset from the link below:
    ```bash
    pip install pandas numpy matplotlib seaborn
 ## Plots
+![image](https://github.com/user-attachments/assets/d8fc994d-4bbf-41a8-958e-b3ca45c19ceb)
+![image](https://github.com/user-attachments/assets/83a1a2d1-e9ce-434f-9fba-384fbef30ffa)
 
 ## Conclusion
 This project demonstrates how surveillance data can be analyzed using data analytics tools to improve situational awareness. By detecting anomalies in the data, we can identify high-risk locations and take appropriate actions, which is essential for national security.
